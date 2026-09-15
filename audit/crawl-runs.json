@@ -1,0 +1,107 @@
+[
+ {
+  "run": 1,
+  "startedAt": "2026-09-14T23:50:00Z",
+  "concurrency": 12,
+  "delayMs": 0,
+  "retries": 0,
+  "elapsedSeconds": 22,
+  "statusCounts": {
+   "200": 1002,
+   "429": 1523
+  },
+  "challengePages": 1523,
+  "note": "First crawl. After roughly 1,000 successful .md fetches in ~15s the edge began returning HTTP 429 with header cf-mitigated: challenge and a Cloudflare 'Just a moment...' HTML body for every remaining URL. No Retry-After header. A single request with the same User-Agent 60s later still received 429."
+ },
+ {
+  "run": 2,
+  "startedAt": "2026-09-14T23:55:55.239Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 311,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ },
+ {
+  "run": 3,
+  "startedAt": "2026-09-15T00:04:07.120Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 6,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ },
+ {
+  "run": 4,
+  "startedAt": "2026-09-15T00:05:17.658Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 2,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ },
+ {
+  "run": 5,
+  "startedAt": "2026-09-15T00:06:07.925Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 2,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ },
+ {
+  "run": 6,
+  "startedAt": "2026-09-15T00:06:44.269Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 2,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ },
+ {
+  "run": 7,
+  "startedAt": "2026-09-15T00:09:03.681Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 4,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ },
+ {
+  "run": 8,
+  "startedAt": "2026-09-15T00:09:46.499Z",
+  "concurrency": 3,
+  "delayMs": 400,
+  "retries": 3,
+  "elapsedSeconds": 2,
+  "statusCounts": {
+   "200": 2523,
+   "404": 1
+  },
+  "challengePages": 0
+ }
+]

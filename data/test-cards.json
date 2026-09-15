@@ -1,0 +1,807 @@
+{
+ "source": "https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers.md",
+ "fetchedAt": "2026-09-15T00:09:52.043Z",
+ "count": 92,
+ "cards": [
+  {
+   "brand": "American Express (Amex)",
+   "number": "370000000000002",
+   "threeDS2": false,
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "7373"
+  },
+  {
+   "brand": "American Express (Amex)",
+   "number": "370000000100018",
+   "threeDS2": false,
+   "note": "Security code optional",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "7373"
+  },
+  {
+   "brand": "Bancontact (BCMC)",
+   "number": "5127880999999990",
+   "threeDS2": false,
+   "variant": "BCMC / Mastercard Debit",
+   "country": "BE",
+   "expiry": "03/2030"
+  },
+  {
+   "brand": "Bancontact (BCMC)",
+   "number": "6703444444444449",
+   "threeDS2": false,
+   "variant": "BCMC / Maestro",
+   "cvc": "None",
+   "country": "BE",
+   "expiry": "03/2030"
+  },
+  {
+   "brand": "Bancontact (BCMC)",
+   "number": "4871049999999910",
+   "threeDS2": false,
+   "variant": "BCMC / Visa Debit",
+   "country": "BE",
+   "expiry": "03/2030"
+  },
+  {
+   "brand": "Cartes Bancaires",
+   "number": "4360000001000005",
+   "threeDS2": false,
+   "variant": "Cartes Bancaires",
+   "country": "FR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Cartes Bancaires",
+   "number": "4035501000000008",
+   "threeDS2": false,
+   "variant": "Visa",
+   "country": "FR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Cartes Bancaires",
+   "number": "4035501428146300",
+   "threeDS2": false,
+   "variant": "Visa Debit / Cartes Bancaires",
+   "country": "FR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "China UnionPay",
+   "number": "8171999927660000",
+   "threeDS2": false,
+   "expiry": "10/2030",
+   "cvc": "737",
+   "country": "CN"
+  },
+  {
+   "brand": "China UnionPay",
+   "number": "8171999900000000021",
+   "threeDS2": false,
+   "expiry": "10/2030",
+   "cvc": "737",
+   "country": "CN"
+  },
+  {
+   "brand": "China UnionPay",
+   "number": "6243030000000001",
+   "threeDS2": false,
+   "expiry": "12/2029",
+   "cvc": "737",
+   "country": "CN"
+  },
+  {
+   "brand": "Dankort",
+   "number": "5019555544445555",
+   "threeDS2": false,
+   "variant": "Dankort",
+   "country": "DK",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Dankort",
+   "number": "4571000000000001",
+   "threeDS2": false,
+   "variant": "Visa / Dankort",
+   "country": "DK",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Diners",
+   "number": "36006666333344",
+   "threeDS2": false,
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Diners",
+   "number": "36070500001020",
+   "threeDS2": false,
+   "note": "Security code optional",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Discover",
+   "number": "6011601160116611",
+   "threeDS2": false,
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Discover",
+   "number": "6445644564456445",
+   "threeDS2": false,
+   "country": "GB",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Eftpos",
+   "number": "4687380100010006",
+   "threeDS2": false,
+   "variant": "Mastercard / Eftpos",
+   "country": "AU",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Eftpos",
+   "number": "4089670000000014",
+   "threeDS2": false,
+   "variant": "Eftpos",
+   "country": "AU",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Elo",
+   "number": "5066991111111118",
+   "threeDS2": false,
+   "country": "BR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Hipercard",
+   "number": "6062828888666688",
+   "threeDS2": false,
+   "country": "BR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "JCB",
+   "number": "3569990010095841",
+   "threeDS2": false,
+   "variant": "Consumer",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Maestro",
+   "number": "6771798021000008",
+   "threeDS2": false,
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Maestro",
+   "number": "6771798021000016",
+   "threeDS2": false,
+   "note": "Security code optional",
+   "country": "US",
+   "expiry": "03/2030"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222400070000005",
+   "threeDS2": false,
+   "variant": "Commercial Debit",
+   "country": "CA",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5555341244441115",
+   "threeDS2": false,
+   "note": "Security code optional",
+   "variant": "Consumer",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5577000055770004",
+   "threeDS2": false,
+   "variant": "Consumer",
+   "country": "PL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5555444433331111",
+   "threeDS2": false,
+   "variant": "Consumer",
+   "country": "GB",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222410740360010",
+   "threeDS2": false,
+   "variant": "Corporate",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5555555555554444",
+   "threeDS2": false,
+   "variant": "Credit",
+   "country": "GB",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222410700000002",
+   "threeDS2": false,
+   "variant": "Corporate Credit",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222400010000008",
+   "threeDS2": false,
+   "variant": "Credit",
+   "country": "CA",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2223000048410010",
+   "threeDS2": false,
+   "variant": "Credit",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5130290000000009",
+   "threeDS2": false,
+   "variant": "Credit",
+   "country": "FR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222400060000007",
+   "threeDS2": false,
+   "variant": "Debit",
+   "country": "CA",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2223520443560010",
+   "threeDS2": false,
+   "variant": "Debit",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222400030000004",
+   "threeDS2": false,
+   "variant": "Fleet Credit",
+   "country": "CA",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5100060000000002",
+   "threeDS2": false,
+   "variant": "Premium Credit",
+   "country": "US",
+   "expiry": "12/2029",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "2222400050000009",
+   "threeDS2": false,
+   "variant": "Purchasing Credit",
+   "country": "CA",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Mastercard",
+   "number": "5103221911199245",
+   "threeDS2": false,
+   "variant": "Prepaid",
+   "country": "BR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "UATP",
+   "number": "135410014004955",
+   "threeDS2": false,
+   "variant": "UATP",
+   "expiry": "03/2030",
+   "cvc": "None"
+  },
+  {
+   "brand": "US Debit",
+   "number": "4400002000000004",
+   "threeDS2": false,
+   "variant": "Visa Debit / Accel / STAR / Maestro USA",
+   "country": "US",
+   "expiry": "03/30",
+   "cvc": "737"
+  },
+  {
+   "brand": "US Debit",
+   "number": "4000033003300335",
+   "threeDS2": false,
+   "variant": "Visa Debit / PULSE / NYCE",
+   "country": "US",
+   "expiry": "03/30",
+   "cvc": "737"
+  },
+  {
+   "brand": "US Debit",
+   "number": "5002510000000013",
+   "threeDS2": false,
+   "variant": "Mastercard Debit / Accel / STAR / Maestro USA",
+   "country": "US",
+   "expiry": "03/30",
+   "cvc": "737"
+  },
+  {
+   "brand": "US Debit",
+   "number": "5413330033003303",
+   "threeDS2": false,
+   "variant": "Mastercard Debit / PULSE / NYCE",
+   "country": "US",
+   "expiry": "03/30",
+   "cvc": "737"
+  },
+  {
+   "brand": "US Debit",
+   "number": "6011609900000003",
+   "threeDS2": false,
+   "variant": "Discover Debit / Accel / STAR / Maestro USA",
+   "country": "US",
+   "expiry": "03/30",
+   "cvc": "737"
+  },
+  {
+   "brand": "US Debit",
+   "number": "6445645000000002",
+   "threeDS2": false,
+   "variant": "Discover Debit / PULSE / NYCE",
+   "country": "US",
+   "expiry": "03/30",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4111111145551142",
+   "threeDS2": false,
+   "note": "Security code optional",
+   "variant": "Classic",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4111112014267661",
+   "threeDS2": false,
+   "note": "eight-digit BIN",
+   "variant": "Debit",
+   "country": "FR",
+   "expiry": "12/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4988438843884305",
+   "threeDS2": false,
+   "variant": "Classic",
+   "country": "ES",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4166676667666746",
+   "threeDS2": false,
+   "variant": "Classic",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4646464646464644",
+   "threeDS2": false,
+   "variant": "Classic",
+   "country": "PL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000620000000007",
+   "threeDS2": false,
+   "variant": "Commercial Credit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000060000000006",
+   "threeDS2": false,
+   "variant": "Commercial Debit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4293189100000008",
+   "threeDS2": false,
+   "variant": "Commercial Premium Credit",
+   "country": "AU",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4988080000000000",
+   "threeDS2": false,
+   "variant": "Commercial Premium Debit",
+   "country": "IN",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4111111111111111",
+   "threeDS2": false,
+   "variant": "Consumer",
+   "country": "NL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4444333322221111",
+   "threeDS2": false,
+   "variant": "Corporate",
+   "country": "GB",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4001590000000001",
+   "threeDS2": false,
+   "variant": "Corporate Credit",
+   "country": "IL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000180000000002",
+   "threeDS2": false,
+   "variant": "Corporate Debit",
+   "country": "IN",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000020000000000",
+   "threeDS2": false,
+   "variant": "Credit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000160000000004",
+   "threeDS2": false,
+   "variant": "Debit",
+   "country": "IN",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4002690000000008",
+   "threeDS2": false,
+   "variant": "Debit",
+   "country": "AU",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4400000000000008",
+   "threeDS2": false,
+   "variant": "Debit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4484600000000004",
+   "threeDS2": false,
+   "variant": "Fleet Credit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4607000000000009",
+   "threeDS2": false,
+   "variant": "Fleet Debit",
+   "country": "MX",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4977949494949497",
+   "threeDS2": false,
+   "variant": "Gold",
+   "country": "FR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000640000000005",
+   "threeDS2": false,
+   "variant": "Premium Credit",
+   "country": "AZ",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4003550000000003",
+   "threeDS2": false,
+   "variant": "Premium Credit",
+   "country": "TW",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4000760000000001",
+   "threeDS2": false,
+   "variant": "Premium Debit",
+   "country": "MU",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4017340000000003",
+   "threeDS2": false,
+   "variant": "Premium Debit",
+   "country": "RU",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4005519000000006",
+   "threeDS2": false,
+   "variant": "Purchasing Credit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4131840000000003",
+   "threeDS2": false,
+   "variant": "Purchasing Debit",
+   "country": "GT",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4151500000000008",
+   "threeDS2": false,
+   "variant": "Visa Credit",
+   "country": "US",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa",
+   "number": "4199350000000002",
+   "threeDS2": false,
+   "variant": "Visa Proprietary",
+   "country": "FR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "Visa Electron",
+   "number": "4001020000000009",
+   "threeDS2": false,
+   "country": "BR",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "V Pay",
+   "number": "4013250000000000006",
+   "threeDS2": false,
+   "country": "PL",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "371449635398431",
+   "threeDS2": true,
+   "variant": "American Express",
+   "expiry": "03/2030",
+   "cvc": "7373"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "6703444444444449",
+   "threeDS2": true,
+   "variant": "Bancontact / Maestro",
+   "expiry": "03/2030",
+   "cvc": "Not applicable"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "4871049999999910",
+   "threeDS2": true,
+   "variant": "Bancontact / Visa",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "4035501428146300",
+   "threeDS2": true,
+   "variant": "Cartes Bancaires / Visa Debit",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "4360000001000005",
+   "threeDS2": true,
+   "variant": "Cartes Bancaires",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "6250947000000014",
+   "threeDS2": true,
+   "variant": "China UnionPay (Credit)",
+   "expiry": "03/2030",
+   "cvc": "123"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "6250946000000016",
+   "threeDS2": true,
+   "variant": "China UnionPay (Debit)",
+   "expiry": "03/2030",
+   "cvc": "123"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "30569309025904",
+   "threeDS2": true,
+   "variant": "Diners",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "6011111111111117",
+   "threeDS2": true,
+   "variant": "Discover",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "3566111111111113",
+   "threeDS2": true,
+   "variant": "JCB / Mastercard",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "5000550000000029",
+   "threeDS2": true,
+   "variant": "Maestro",
+   "expiry": "03/2030",
+   "cvc": "Not applicable"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "5454545454545454",
+   "threeDS2": true,
+   "variant": "Mastercard",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "2222400010000008",
+   "threeDS2": true,
+   "variant": "Mastercard Credit",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "4917610000000000",
+   "threeDS2": true,
+   "variant": "Visa",
+   "expiry": "03/2030",
+   "cvc": "737"
+  },
+  {
+   "brand": "3D Secure 2",
+   "number": "4166676667666746",
+   "threeDS2": true,
+   "variant": "Visa Classic",
+   "expiry": "03/2030",
+   "cvc": "737"
+  }
+ ]
+}

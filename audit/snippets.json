@@ -1,0 +1,6249 @@
+{
+ "results": [
+  {
+   "url": "https://docs.adyen.com/business-accounts/how-sca-works.md",
+   "line": 155,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/kyc-verification-codes.md",
+   "line": 81,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/kyc-verification-codes/general-verification-errors.md",
+   "line": 309,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/kyc-verification-codes/remediating-actions.md",
+   "line": 298,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/kyc-verification-codes/sub-errors.md",
+   "line": 356,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/manage-legal-entities.md",
+   "line": 369,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/manage-sca-devices.md",
+   "line": 203,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 8)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/register-sca-devices.md",
+   "line": 111,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/sca-for-funds-transfers.md",
+   "line": 109,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/sca-for-funds-transfers.md",
+   "line": 578,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/sca-for-funds-transfers.md",
+   "line": 591,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/sca-for-funds-transfers.md",
+   "line": 1324,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/sca-for-transaction-history.md",
+   "line": 125,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/send-funds-ideal-integration.md",
+   "line": 298,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/send-funds-ideal-integration.md",
+   "line": 354,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/third-party-transfer-webhooks.md",
+   "line": 407,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/third-party-transfer-webhooks.md",
+   "line": 504,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/third-party-transfer-webhooks.md",
+   "line": 621,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/transfer-funds-internally.md",
+   "line": 600,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/transfer-funds-internally.md",
+   "line": 767,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/transfer-funds-internally.md",
+   "line": 863,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/use-transfer-limits/balance-accounts.md",
+   "line": 172,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/business-accounts/use-transfer-limits/balance-accounts.md",
+   "line": 378,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/capital/collect-user-data.md",
+   "line": 731,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 13)"
+  },
+  {
+   "url": "https://docs.adyen.com/capital/collect-user-data.md",
+   "line": 1013,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/capital/collect-user-data.md",
+   "line": 1226,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 13)"
+  },
+  {
+   "url": "https://docs.adyen.com/capital/integration-steps-components.md",
+   "line": 320,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/account-holders-and-accounts.md",
+   "line": 117,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/account-holders-and-accounts.md",
+   "line": 180,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/account-holders-and-accounts.md",
+   "line": 243,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/account-holders-and-accounts.md",
+   "line": 306,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/account-holders-and-accounts.md",
+   "line": 371,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/identify-account-holder-risk/configure-notifications-for-risk-signals.md",
+   "line": 51,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/identify-account-holder-risk/configure-notifications-for-risk-signals.md",
+   "line": 101,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/onboard-users.md",
+   "line": 97,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/onboard-users/custom-onboarding.md",
+   "line": 133,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/payouts/manual-payout/payout-to-cards.md",
+   "line": 95,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/payouts/manual-payout/payout-to-cards.md",
+   "line": 113,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/payouts/track-payouts.md",
+   "line": 92,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/platforms-for-partners.md",
+   "line": 206,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/platforms-for-pos.md",
+   "line": 218,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/release-notes.md",
+   "line": 734,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/top-up-accounts.md",
+   "line": 117,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/check-verification-results.md",
+   "line": 99,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 47,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 64,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 84,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 103,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 218,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 235,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/classic-platforms/verification-process/requirements-update.md",
+   "line": 253,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/client-side-authentication/migrate-from-origin-key-to-client-key.md",
+   "line": 65,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/pci-dss-compliance-guide/script-security.md",
+   "line": 177,
+   "lang": "js",
+   "ok": false,
+   "reason": "JSX element 'link' has no corresponding closing tag. (line 5)"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/raw-acquirer-responses.md",
+   "line": 445,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/test-cards-and-credentials/test-card-numbers.md",
+   "line": 54,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/testing/payments-and-modifications.md",
+   "line": 62,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/testing/result-codes.md",
+   "line": 51,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/testing/result-codes.md",
+   "line": 78,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/testing/result-codes/cvc-cvv-cid-result-codes.md",
+   "line": 37,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 4"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/testing/result-codes/cvc-cvv-cid-result-codes.md",
+   "line": 64,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 2"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/webhooks/secure-webhooks/verify-hmac-signatures.md",
+   "line": 43,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/webhooks/webhook-types.md",
+   "line": 59,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/3d-secure/oob-auth-sdk/manage-devices.md",
+   "line": 199,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 8)"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/add-manage-funds/process-payments/make-a-payment.md",
+   "line": 148,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/authorisation/transaction-rules/examples.md",
+   "line": 319,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/kyc-verification-codes.md",
+   "line": 81,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/kyc-verification-codes/general-verification-errors.md",
+   "line": 306,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/kyc-verification-codes/remediating-actions.md",
+   "line": 278,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/kyc-verification-codes/sub-errors.md",
+   "line": 330,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/manage-account-holders.md",
+   "line": 948,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/manage-account-holders.md",
+   "line": 1179,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/manage-legal-entities.md",
+   "line": 370,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/onboard-users/components.md",
+   "line": 574,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/raise-disputes/not-delivered.md",
+   "line": 94,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ':' after property name in JSON at position 324 (li"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/reconcile-balances.md",
+   "line": 28,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/test-verification-errors.md",
+   "line": 1434,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/webhook-types/fund-transfers-webhooks.md",
+   "line": 302,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/webhook-types/payment-events.md",
+   "line": 1399,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/issuing/webhook-types/payment-events.md",
+   "line": 1883,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 490,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 1206,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 1260,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 1937,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 2774,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 3021,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 22)"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 3718,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/build-user-dashboards.md",
+   "line": 3806,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 64 "
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/checkout-components.md",
+   "line": 729,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/checkout-components.md",
+   "line": 808,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/checkout-components.md",
+   "line": 828,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/checkout-components.md",
+   "line": 850,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/checkout-components.md",
+   "line": 949,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/currency-conversion/payments/fix-processing-currency.md",
+   "line": 799,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/currency-conversion/payments/fix-settlement-currency.md",
+   "line": 871,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 384,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 451,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 524,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 605,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 693,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 793,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/kyc-verification-codes.md",
+   "line": 81,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/kyc-verification-codes/general-verification-errors.md",
+   "line": 309,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/kyc-verification-codes/remediating-actions.md",
+   "line": 298,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/kyc-verification-codes/sub-errors.md",
+   "line": 356,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/manage-account-holders.md",
+   "line": 681,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/manage-account-holders.md",
+   "line": 912,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/manage-legal-entities.md",
+   "line": 378,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/multi-pay-in/payments.md",
+   "line": 406,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/onboard-users/components.md",
+   "line": 600,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/split-transactions/split-payments-at-authorization.md",
+   "line": 659,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/surcharge.md",
+   "line": 1092,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/test-verification-errors.md",
+   "line": 1434,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/top-up-balance-account/on-demand-top-ups.md",
+   "line": 762,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/top-up-balance-account/top-up-webhooks.md",
+   "line": 304,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/top-up-balance-account/top-up-webhooks.md",
+   "line": 943,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/transaction-fees.md",
+   "line": 74,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 1"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/authorize-mpidata.md",
+   "line": 135,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 778,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 840,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 1677,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 1708,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 1746,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 2634,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 2664,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 3492,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 3522,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 4545,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 4574,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 5422,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 5452,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 5746,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 6559,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/android-component/earlier-versions.md",
+   "line": 605,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/android-drop-in.md",
+   "line": 625,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/ios-component.md",
+   "line": 578,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/ios-drop-in.md",
+   "line": 596,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/web-component.md",
+   "line": 695,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/web-drop-in.md",
+   "line": 68,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/web-drop-in.md",
+   "line": 729,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/standalone-authentication.md",
+   "line": 947,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/standalone-authentication.md",
+   "line": 1128,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/account-updater/real-time-account-updater.md",
+   "line": 64,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected property name or '}' in JSON at position 5 (line 2 "
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/account-updater/real-time-account-updater.md",
+   "line": 98,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected property name or '}' in JSON at position 7 (line 2 "
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/analytics-and-data-tracking.md",
+   "line": 172,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/auto-rescue/cards.md",
+   "line": 522,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/auto-rescue/cards.md",
+   "line": 573,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/auto-rescue/cards.md",
+   "line": 624,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/auto-rescue/cards.md",
+   "line": 749,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/auto-rescue/sepa.md",
+   "line": 448,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/auto-rescue/sepa.md",
+   "line": 739,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 746,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 890,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 85)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 1014,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 2813,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 2930,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 9)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 4694,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 4702,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 4740,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 4748,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 6497,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 7314,
+   "lang": "js",
+   "ok": false,
+   "reason": "Argument expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 8232,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9066,
+   "lang": "js",
+   "ok": false,
+   "reason": "Argument expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9213,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9918,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9926,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9964,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9972,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 11392,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 13093,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 14646,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 14654,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 14692,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 14700,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16120,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16151,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16165,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16179,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16193,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16212,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16362,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17805,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17832,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17846,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17860,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17874,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17893,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 18013,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 19312,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 19320,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 19358,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 19366,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20793,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20877,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20894,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20910,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20940,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20961,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22299,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22404,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22421,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22445,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22472,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22493,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 2)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 23741,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 23749,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 23787,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 23795,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 1338,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Identifier expected. (line 18)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 1452,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 1472,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 1494,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 1859,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 3002,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 3081,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 3101,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 3123,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 3323,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 4482,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 5726,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 5914,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 9423,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 9437,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 9451,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 9465,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 9484,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 10679,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 10696,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 10712,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 10743,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 10764,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11808,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11825,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11850,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11868,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11888,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11909,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 2)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/card-encryption-with-jwe.md",
+   "line": 130,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/3d-secure-authentication/native-3ds2/authentication-only-integration.md",
+   "line": 679,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/3d-secure-authentication/native-3ds2/browser-based-integration/3d-secure-2-helper-functions.md",
+   "line": 71,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 13)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/3d-secure-authentication/native-3ds2/browser-based-integration/3d-secure-2-helper-functions.md",
+   "line": 1291,
+   "lang": "js",
+   "ok": false,
+   "reason": "'}' expected. (line 6)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/3d-secure-authentication/other-3ds-flows/authorize-mpidata.md",
+   "line": 968,
+   "lang": "ts",
+   "ok": false,
+   "reason": "',' expected. (line 30)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/classic-google-pay.md",
+   "line": 25,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/classic-pix.md",
+   "line": 165,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/client-side-encryption.md",
+   "line": 109,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/client-side-encryption/hosting-the-cse-library.md",
+   "line": 114,
+   "lang": "js",
+   "ok": false,
+   "reason": "Declaration or statement expected. (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/classic-api-integration/tokenization/store-payment-details.md",
+   "line": 443,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Identifier expected. (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/classic-integrations/modify-payments/capture.md",
+   "line": 91,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/donations/integration-options/sessions-flow.md",
+   "line": 113,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 6)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 113,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 130,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 176,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 314,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 348,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 415,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/partial-authorizations.md",
+   "line": 432,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/psd2-sca-compliance-and-implementation-guide/sca-options.md",
+   "line": 1690,
+   "lang": "ts",
+   "ok": false,
+   "reason": "',' expected. (line 15)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/release-notes.md",
+   "line": 8644,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/release-notes.md",
+   "line": 12704,
+   "lang": "js",
+   "ok": false,
+   "reason": "'}' expected. (line 6)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/release-notes.md",
+   "line": 12715,
+   "lang": "js",
+   "ok": false,
+   "reason": "'}' expected. (line 10)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/tokenization/managing-tokens.md",
+   "line": 66,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/two-step-checkout.md",
+   "line": 82,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/migrate-to-checkout-api.md",
+   "line": 2817,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6.md",
+   "line": 210,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6.md",
+   "line": 422,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6.md",
+   "line": 444,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v3.md",
+   "line": 212,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v3.md",
+   "line": 301,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 5)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v3.md",
+   "line": 518,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v3.md",
+   "line": 540,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v4.md",
+   "line": 207,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 5)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v4.md",
+   "line": 424,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/upgrade-your-integration/upgrade-to-web-v6/from-v4.md",
+   "line": 446,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/web-best-practices.md",
+   "line": 42,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 2)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/web-best-practices.md",
+   "line": 86,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/web-best-practices.md",
+   "line": 235,
+   "lang": "js",
+   "ok": false,
+   "reason": "JSX element 'link' has no corresponding closing tag. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/partners/oauth/scopes.md",
+   "line": 132,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ach-direct-debit/verification-with-giact.md",
+   "line": 171,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ach-direct-debit/verification-with-giact.md",
+   "line": 269,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/affirm/ios-component.md",
+   "line": 1401,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/affirm/ios-drop-in.md",
+   "line": 1344,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/affirm/ios-drop-in.md",
+   "line": 1361,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/affirm/web-component.md",
+   "line": 1382,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/affirm/web-drop-in.md",
+   "line": 1352,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/afterpaytouch/api-only.md",
+   "line": 870,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/api-only.md",
+   "line": 765,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/api-only.md",
+   "line": 780,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/api-only.md",
+   "line": 871,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-component.md",
+   "line": 109,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-component.md",
+   "line": 598,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-component.md",
+   "line": 613,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-component.md",
+   "line": 704,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-drop-in.md",
+   "line": 91,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-drop-in.md",
+   "line": 572,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-drop-in.md",
+   "line": 587,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ancv/web-drop-in.md",
+   "line": 678,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/api-only.md",
+   "line": 47,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/flutter-component.md",
+   "line": 68,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/flutter-component.md",
+   "line": 80,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/flutter-drop-in.md",
+   "line": 68,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/react-native-component.md",
+   "line": 121,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/react-native-drop-in.md",
+   "line": 113,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/web-component.md",
+   "line": 353,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/apple-pay/web-drop-in.md",
+   "line": 319,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/atome/web-component.md",
+   "line": 792,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-component.md",
+   "line": 475,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-component.md",
+   "line": 487,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-component/earlier-versions.md",
+   "line": 917,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-component/earlier-versions.md",
+   "line": 929,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-drop-in.md",
+   "line": 475,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-drop-in.md",
+   "line": 487,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-drop-in/earlier-versions.md",
+   "line": 880,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/android-drop-in/earlier-versions.md",
+   "line": 892,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/api-only.md",
+   "line": 913,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/api-only.md",
+   "line": 925,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/ios-component.md",
+   "line": 515,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/ios-component.md",
+   "line": 527,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/ios-drop-in.md",
+   "line": 468,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/ios-drop-in.md",
+   "line": 480,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-component.md",
+   "line": 576,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-component.md",
+   "line": 588,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-drop-in.md",
+   "line": 103,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-drop-in.md",
+   "line": 130,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-drop-in.md",
+   "line": 141,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-drop-in.md",
+   "line": 567,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-card/web-drop-in.md",
+   "line": 579,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-mobile/android-component/earlier-versions.md",
+   "line": 374,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bancontact/bancontact-mobile/android-drop-in/earlier-versions.md",
+   "line": 371,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/blik/android-drop-in/earlier-versions.md",
+   "line": 366,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/blik/web-component.md",
+   "line": 50,
+   "lang": "js",
+   "ok": false,
+   "reason": "Variable declaration expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/boleto-bancario/api-only.md",
+   "line": 149,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/boleto-bancario/web-component.md",
+   "line": 91,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/android-component.md",
+   "line": 330,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/android-drop-in.md",
+   "line": 307,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 91,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 137,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 203,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 271,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 335,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 420,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/cards-recurring-india.md",
+   "line": 451,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 104,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 134,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 165,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 207,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 222,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 259,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 598"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 294,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 687"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/click-to-pay.md",
+   "line": 337,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/credit-card-installments.md",
+   "line": 877,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/credit-card-installments.md",
+   "line": 899,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 223,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 236,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 525,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 582,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 10)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 612,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 1153,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/custom-card-integration.md",
+   "line": 1640,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/enhanced-scheme-data/l2-l3.md",
+   "line": 299,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/enhanced-scheme-data/l2-l3.md",
+   "line": 314,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/enhanced-scheme-data/l2-l3.md",
+   "line": 329,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/enhanced-scheme-data/l2-l3.md",
+   "line": 344,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/enhanced-scheme-data/l2-l3.md",
+   "line": 359,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/flutter-component.md",
+   "line": 145,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/flutter-drop-in.md",
+   "line": 145,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/ios-component.md",
+   "line": 158,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/ios-drop-in.md",
+   "line": 158,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/payment-facilitators.md",
+   "line": 68,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/raw-card-data.md",
+   "line": 743,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/raw-card-data.md",
+   "line": 1225,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/react-native-component.md",
+   "line": 106,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/react-native-component.md",
+   "line": 163,
+   "lang": "js",
+   "ok": false,
+   "reason": "'{' or JSX element expected. (line 9)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/react-native-drop-in.md",
+   "line": 85,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/react-native-drop-in.md",
+   "line": 142,
+   "lang": "js",
+   "ok": false,
+   "reason": "'{' or JSX element expected. (line 9)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/web-component.md",
+   "line": 1449,
+   "lang": "js",
+   "ok": false,
+   "reason": "Declaration or statement expected. (line 9)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/web-component.md",
+   "line": 1482,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/web-drop-in.md",
+   "line": 80,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/web-drop-in.md",
+   "line": 656,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cards/web-drop-in.md",
+   "line": 1395,
+   "lang": "js",
+   "ok": false,
+   "reason": "Expression expected. (line 7)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/android-component/earlier-versions.md",
+   "line": 637,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/android-drop-in/earlier-versions.md",
+   "line": 625,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/api-only.md",
+   "line": 627,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/ios-component.md",
+   "line": 1299,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/ios-drop-in.md",
+   "line": 1252,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/web-component.md",
+   "line": 1280,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-afterpay/web-drop-in.md",
+   "line": 1251,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-pay/android-component/earlier-versions.md",
+   "line": 135,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/cash-app-pay/android-drop-in/earlier-versions.md",
+   "line": 55,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/android-component.md",
+   "line": 234,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/android-component.md",
+   "line": 514,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/android-drop-in.md",
+   "line": 158,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/android-drop-in.md",
+   "line": 360,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/api-only.md",
+   "line": 220,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/flutter-component.md",
+   "line": 154,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/flutter-component.md",
+   "line": 356,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/flutter-drop-in.md",
+   "line": 156,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/flutter-drop-in.md",
+   "line": 362,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/ios-component.md",
+   "line": 178,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/ios-component.md",
+   "line": 401,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/ios-drop-in.md",
+   "line": 158,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/ios-drop-in.md",
+   "line": 366,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/react-native-component.md",
+   "line": 180,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/react-native-drop-in.md",
+   "line": 160,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/react-native-drop-in.md",
+   "line": 362,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/web-component.md",
+   "line": 180,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/web-component.md",
+   "line": 398,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/web-drop-in.md",
+   "line": 166,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/clearpay/web-drop-in.md",
+   "line": 380,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/econtext-konbini/api-only.md",
+   "line": 850,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/econtext-konbini/api-only.md",
+   "line": 918,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/econtext-konbini/api-only.md",
+   "line": 945,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/econtext-konbini/web-drop-in.md",
+   "line": 68,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/eps/api-only.md",
+   "line": 363,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/fpx-online-banking-malaysia/api-only.md",
+   "line": 354,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/web-component.md",
+   "line": 162,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/web-component.md",
+   "line": 267,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 6)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/web-component.md",
+   "line": 358,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/web-drop-in.md",
+   "line": 76,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/web-drop-in.md",
+   "line": 104,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/web-drop-in.md",
+   "line": 138,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/api-only.md",
+   "line": 31,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/api-only/google-pay-token-decryption.md",
+   "line": 51,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected token '<', ...\"   \"pan\": <GOOGLE_PA\"... is not va"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/api-only/google-pay-token-decryption.md",
+   "line": 64,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected token '<', ...\"   \"pan\": <PAN>,\n   \"... is not va"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/api-only/google-pay-token-decryption.md",
+   "line": 100,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected token '<', ...\"\"number\": <PAN>\n    \"... is not va"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/api-only/google-pay-token-decryption.md",
+   "line": 136,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected token '<', ...\"\"number\": <PAN>\n    \"... is not va"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/flutter-component.md",
+   "line": 63,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/flutter-component.md",
+   "line": 74,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unknown keyword or identifier. Did you mean 'finally'? (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/flutter-drop-in.md",
+   "line": 63,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/web-component/express-checkout.md",
+   "line": 46,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/web-component/express-checkout.md",
+   "line": 316,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/web-drop-in.md",
+   "line": 95,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/google-pay/web-drop-in.md",
+   "line": 120,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna-debit-risk/api-only.md",
+   "line": 716,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/api-only.md",
+   "line": 140,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/invoice-lines.md",
+   "line": 45,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/invoice-lines.md",
+   "line": 279,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/invoice-lines.md",
+   "line": 1067,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/invoice-lines.md",
+   "line": 1099,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/web-drop-in.md",
+   "line": 1535,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/android-component.md",
+   "line": 367,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/android-component.md",
+   "line": 392,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/android-drop-in.md",
+   "line": 210,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/android-drop-in.md",
+   "line": 235,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/api-only.md",
+   "line": 182,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/api-only.md",
+   "line": 207,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/ios-component.md",
+   "line": 228,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/ios-component.md",
+   "line": 253,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/ios-drop-in.md",
+   "line": 180,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/ios-drop-in.md",
+   "line": 205,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/web-component.md",
+   "line": 227,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/web-component.md",
+   "line": 252,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/web-drop-in.md",
+   "line": 193,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 192"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/mb-way/web-drop-in.md",
+   "line": 218,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 72 "
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/oney/api-only.md",
+   "line": 127,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/oney/web-component.md",
+   "line": 1299,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/oney/web-drop-in.md",
+   "line": 1265,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/oney/web-drop-in.md",
+   "line": 1339,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/online-banking-india/web-drop-in.md",
+   "line": 46,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/online-banking-poland/api-only.md",
+   "line": 273,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/online-banking-slovakia/web-drop-in.md",
+   "line": 46,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/online-banking-slovakia/web-drop-in.md",
+   "line": 86,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/pad/web-component.md",
+   "line": 240,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/pay-by-bank-europe/web-drop-in.md",
+   "line": 95,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/android-component.md",
+   "line": 919,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/android-drop-in.md",
+   "line": 921,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/api-only.md",
+   "line": 932,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/ios-component.md",
+   "line": 1397,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/ios-drop-in.md",
+   "line": 1350,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/web-component.md",
+   "line": 1377,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paybright/web-drop-in.md",
+   "line": 1349,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/android-component.md",
+   "line": 655,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/android-drop-in.md",
+   "line": 653,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/api-only.md",
+   "line": 558,
+   "lang": "ts",
+   "ok": false,
+   "reason": "',' expected. (line 48)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/paypal-troubleshooting.md",
+   "line": 59,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component.md",
+   "line": 1176,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component.md",
+   "line": 1440,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component.md",
+   "line": 1451,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 865,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 885,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 923,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 1753,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 1773,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 1807,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component/express-checkout.md",
+   "line": 1896,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-drop-in.md",
+   "line": 1142,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-drop-in.md",
+   "line": 1158,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-drop-in.md",
+   "line": 1341,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-drop-in.md",
+   "line": 1352,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/pix/api-only.md",
+   "line": 875,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/api-only.md",
+   "line": 1491,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-component.md",
+   "line": 82,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-component.md",
+   "line": 173,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-component.md",
+   "line": 274,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-component.md",
+   "line": 2376,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-drop-in.md",
+   "line": 70,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-drop-in.md",
+   "line": 161,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-drop-in.md",
+   "line": 262,
+   "lang": "ts",
+   "ok": false,
+   "reason": "';' expected. (line 3)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/ratepay/web-drop-in.md",
+   "line": 2364,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/revolutpay/api-only.md",
+   "line": 611,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-component.md",
+   "line": 78,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-component.md",
+   "line": 135,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-component.md",
+   "line": 170,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-component.md",
+   "line": 233,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-component.md",
+   "line": 273,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-drop-in.md",
+   "line": 68,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/titres-restaurant/web-drop-in.md",
+   "line": 89,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/api-only.md",
+   "line": 52,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/api-only.md",
+   "line": 151,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/api-only.md",
+   "line": 180,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/api-only.md",
+   "line": 282,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/api-only.md",
+   "line": 334,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/api-only.md",
+   "line": 360,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 74,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 110,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 136,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 171,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 198,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 234,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 276,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 357,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 417,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/api-only.md",
+   "line": 445,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/upi/upi-autopay/web.md",
+   "line": 118,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/android-component.md",
+   "line": 71,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/android-component/earlier-versions.md",
+   "line": 136,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/android-drop-in.md",
+   "line": 71,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/android-drop-in/earlier-versions.md",
+   "line": 418,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/api-only.md",
+   "line": 473,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/api-only.md",
+   "line": 622,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/ios-component.md",
+   "line": 403,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/ios-drop-in.md",
+   "line": 356,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/web-component.md",
+   "line": 378,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/walley/web-drop-in.md",
+   "line": 350,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/wechat-pay/wechat-pay-in-app-payments/android-component/earlier-versions.md",
+   "line": 379,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/wechat-pay/wechat-pay-in-app-payments/android-drop-in/earlier-versions.md",
+   "line": 361,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/wechat-pay/wechat-pay-in-app-payments/api-only.md",
+   "line": 358,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/wechat-pay/wechat-pay-mini-program/api-only.md",
+   "line": 99,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/wechat-pay/wechat-pay-mini-program/api-only.md",
+   "line": 209,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 380,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 447,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 520,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 601,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 689,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 789,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/payouts/payout-service/reconcile-balances.md",
+   "line": 28,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 490,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 1206,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 1260,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 1937,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 2774,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 3021,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 22)"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 3718,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/build-user-dashboards.md",
+   "line": 3806,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 64 "
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/donations-in-person.md",
+   "line": 186,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/dynamic-currency-conversion.md",
+   "line": 340,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/payment-facilitators.md",
+   "line": 253,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 8)"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/split-transactions/split-payments-at-authorization.md",
+   "line": 266,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/split-transactions/split-refunds/refund-original-split.md",
+   "line": 96,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/split-transactions/split-refunds/refund-split-instructions.md",
+   "line": 212,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/surcharge/configuration.md",
+   "line": 379,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/surcharge/dynamic.md",
+   "line": 125,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/surcharge/dynamic.md",
+   "line": 432,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/tipping.md",
+   "line": 158,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/tipping.md",
+   "line": 206,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/tipping.md",
+   "line": 408,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/in-person-payments/transaction-fees.md",
+   "line": 223,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 384,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 451,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 524,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 605,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 693,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/internal-fund-transfers/internal-transfer-webhooks.md",
+   "line": 793,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/kyc-verification-codes.md",
+   "line": 81,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/kyc-verification-codes/general-verification-errors.md",
+   "line": 309,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/kyc-verification-codes/remediating-actions.md",
+   "line": 298,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/kyc-verification-codes/sub-errors.md",
+   "line": 356,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/manage-account-holders.md",
+   "line": 948,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/manage-account-holders.md",
+   "line": 1179,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/manage-legal-entities.md",
+   "line": 378,
+   "lang": "json",
+   "ok": false,
+   "reason": "comments inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/manage-stores.md",
+   "line": 502,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 6"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/multi-pay-in/payments.md",
+   "line": 406,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/onboard-users/components.md",
+   "line": 576,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/checkout-components.md",
+   "line": 729,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/checkout-components.md",
+   "line": 808,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/checkout-components.md",
+   "line": 828,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/checkout-components.md",
+   "line": 850,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/checkout-components.md",
+   "line": 949,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/currency-conversion/payments/fix-processing-currency.md",
+   "line": 799,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/currency-conversion/payments/fix-settlement-currency.md",
+   "line": 871,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/split-transactions/split-payments-at-authorization.md",
+   "line": 673,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/split-transactions/split-payments-at-authorization.md",
+   "line": 1389,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/surcharge.md",
+   "line": 1101,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/transaction-fees.md",
+   "line": 76,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 1"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/test-verification-errors.md",
+   "line": 1434,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/top-up-balance-account/on-demand-top-ups.md",
+   "line": 724,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/top-up-balance-account/top-up-webhooks.md",
+   "line": 304,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/top-up-balance-account/top-up-webhooks.md",
+   "line": 943,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/customize.md",
+   "line": 90,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 272"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 160,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 196,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 309,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Bad control character in string literal in JSON at position "
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 557,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 6"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 626,
+   "lang": "js",
+   "ok": false,
+   "reason": "Invalid character. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 632,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 662,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 704,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/adobe-commerce/headless-integration.md",
+   "line": 724,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/oracle-opera.md",
+   "line": 123,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 112,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 127,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 137,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 180,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 189,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 225,
+   "lang": "js",
+   "ok": false,
+   "reason": "'}' expected. (line 8)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 300,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 337,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 629,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 635,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/install-and-set-up-the-package.md",
+   "line": 715,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/set-up-payment-methods.md",
+   "line": 328,
+   "lang": "js",
+   "ok": false,
+   "reason": "'}' expected. (line 8)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/set-up-payment-methods.md",
+   "line": 451,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/set-up-payment-methods.md",
+   "line": 587,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/upgrade.md",
+   "line": 18,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/upgrade.md",
+   "line": 24,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/upgrade.md",
+   "line": 30,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/composable-storefront/upgrade.md",
+   "line": 34,
+   "lang": "js",
+   "ok": false,
+   "reason": "Unexpected keyword or identifier. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/salesforce-commerce-cloud/sfra/set-up-payment-methods.md",
+   "line": 103,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/add-data.md",
+   "line": 222,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/add-data.md",
+   "line": 431,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/add-data/tender-options.md",
+   "line": 135,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/activate.md",
+   "line": 186,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/deactivate.md",
+   "line": 112,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Bad control character in string literal in JSON at position "
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/deactivate.md",
+   "line": 224,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/deactivate.md",
+   "line": 438,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/load-a-balance.md",
+   "line": 178,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/payment.md",
+   "line": 187,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/payment.md",
+   "line": 236,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/payment.md",
+   "line": 379,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/payment.md",
+   "line": 429,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/refund-gift-cards.md",
+   "line": 217,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/alternative-payment-methods/gift-cards-terminal-api/void.md",
+   "line": 160,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/android-terminals/scan-barcode/batch-session.md",
+   "line": 167,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected double-quoted property name in JSON at position 150"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/automating-terminal-management/configure-terminals-api.md",
+   "line": 1450,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 11)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/automating-terminal-management/order-terminals-api.md",
+   "line": 218,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/automating-terminal-management/order-terminals-api.md",
+   "line": 637,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/automating-terminal-management/order-terminals-api.md",
+   "line": 1227,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/autonomous-stores.md",
+   "line": 172,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/autonomous-stores.md",
+   "line": 366,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/make-a-payment.md",
+   "line": 169,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/make-a-payment.md",
+   "line": 231,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/make-a-payment/greece-tax.md",
+   "line": 149,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/make-a-payment/greece-tax.md",
+   "line": 294,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/pass-application-information.md",
+   "line": 170,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/pass-application-information.md",
+   "line": 309,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/refund-payment/unreferenced.md",
+   "line": 267,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/verify-transaction-status.md",
+   "line": 138,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/basic-tapi-integration/verify-transaction-status.md",
+   "line": 330,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/card-acquisition.md",
+   "line": 179,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/card-acquisition.md",
+   "line": 386,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ':' after property name in JSON at position 421 (li"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/card-acquisition/identifiers.md",
+   "line": 117,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/cashback-and-cash-out.md",
+   "line": 128,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/custom-cards.md",
+   "line": 70,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/custom-cards.md",
+   "line": 105,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/choose-your-architecture/local/protect-with-library.md",
+   "line": 242,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/choose-your-architecture/local/protect-with-library.md",
+   "line": 388,
+   "lang": "js",
+   "ok": false,
+   "reason": "',' expected. (line 2)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/determine-account-structure/automate-store-management.md",
+   "line": 262,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 2"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/determine-account-structure/automate-store-management.md",
+   "line": 490,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 6"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/determine-account-structure/automate-store-management.md",
+   "line": 995,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 6"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/determine-account-structure/automate-store-management.md",
+   "line": 1442,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/determine-account-structure/automate-store-management.md",
+   "line": 1973,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected non-whitespace character after JSON at position 6"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/network-and-connectivity/network-configuration.md",
+   "line": 136,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Unexpected token 'Y', ...\"\"new_ip\": YOUR_NEW_T\"... is not va"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/notifications/display-notifications.md",
+   "line": 103,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/notifications/event-notifications.md",
+   "line": 97,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/notifications/event-notifications.md",
+   "line": 506,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/terminal-api.md",
+   "line": 67,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/design-your-integration/terminal-api.md",
+   "line": 118,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/diagnostics/request-diagnosis.md",
+   "line": 465,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/donate.md",
+   "line": 307,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/donate.md",
+   "line": 448,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/enter-payment-manually.md",
+   "line": 155,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/error-scenarios.md",
+   "line": 47,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/error-scenarios.md",
+   "line": 87,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/error-scenarios.md",
+   "line": 207,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/error-scenarios/penalty-box.md",
+   "line": 101,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/error-scenarios/pos-timeouts.md",
+   "line": 40,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/error-scenarios/pos-timeouts.md",
+   "line": 106,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/installments/brazil-installments.md",
+   "line": 583,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/installments/mexico-installments.md",
+   "line": 228,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/payment-data.md",
+   "line": 144,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/payment-data.md",
+   "line": 275,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/payment-data.md",
+   "line": 455,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/payment-data.md",
+   "line": 620,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/wallet-passes.md",
+   "line": 216,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/wallet-passes.md",
+   "line": 351,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/wallet-passes.md",
+   "line": 475,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/loyalty/wallet-passes.md",
+   "line": 602,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/mail-and-telephone-order-moto.md",
+   "line": 179,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/managing-terminals/battery-management.md",
+   "line": 86,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/nfc-tags.md",
+   "line": 152,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/nfc-tags.md",
+   "line": 2103,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/offline-payment.md",
+   "line": 202,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/offline-payment.md",
+   "line": 243,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/offline-payment.md",
+   "line": 257,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/partial-authorizations.md",
+   "line": 142,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/pay-at-x.md",
+   "line": 231,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/pay-at-x.md",
+   "line": 278,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/pay-at-x.md",
+   "line": 315,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/payment-facilitators.md",
+   "line": 253,
+   "lang": "ts",
+   "ok": false,
+   "reason": "Expression expected. (line 8)"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/pre-authorisation.md",
+   "line": 215,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/quick-chip.md",
+   "line": 97,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/quick-chip.md",
+   "line": 217,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/reconciling-totals/retrieve-totals-from-the-terminal.md",
+   "line": 221,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/recurring-payments.md",
+   "line": 201,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/risk-management-pos.md",
+   "line": 116,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/display-image.md",
+   "line": 107,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/display-qr-code.md",
+   "line": 149,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/display-receipt.md",
+   "line": 307,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/display-receipt.md",
+   "line": 336,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/display-receipt.md",
+   "line": 368,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/display-receipt.md",
+   "line": 388,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/display-data/idle-display.md",
+   "line": 121,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/amount.md",
+   "line": 188,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/confirmation.md",
+   "line": 189,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/digit.md",
+   "line": 172,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/phone-number.md",
+   "line": 172,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/rating.md",
+   "line": 182,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/rating/rating-single-press.md",
+   "line": 189,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/signature.md",
+   "line": 178,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-engagement/shopper-input/text.md",
+   "line": 172,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/before-refund.md",
+   "line": 108,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/before-refund.md",
+   "line": 230,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/identification.md",
+   "line": 244,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/tax-free-shopping.md",
+   "line": 226,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/tax-free-shopping.md",
+   "line": 348,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/tax-free-shopping.md",
+   "line": 520,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/shopper-recognition/tax-free-shopping.md",
+   "line": 625,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/surcharge/dynamic.md",
+   "line": 125,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/surcharge/dynamic.md",
+   "line": 351,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/tipping/tipping-from-cash-register.md",
+   "line": 125,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/tipping/tipping-from-terminal.md",
+   "line": 511,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/tipping/tipping-from-terminal/change-amount-to-tip-on.md",
+   "line": 155,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/point-of-sale/tipping/tipping-from-terminal/override-tipping-configuration.md",
+   "line": 188,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/disputes-api/dispute-notifications.md",
+   "line": 101,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/handle-risk-rule-notifications.md",
+   "line": 105,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/handle-risk-rule-notifications.md",
+   "line": 198,
+   "lang": "json",
+   "ok": false,
+   "reason": "parse error: Expected ',' or '}' after property value in JSON at position"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/best-practices.md",
+   "line": 42,
+   "lang": "js",
+   "ok": false,
+   "reason": "';' expected. (line 2)"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/best-practices.md",
+   "line": 81,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/best-practices.md",
+   "line": 205,
+   "lang": "js",
+   "ok": false,
+   "reason": "JSX element 'link' has no corresponding closing tag. (line 5)"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/customize-checkout.md",
+   "line": 100,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/customize-checkout.md",
+   "line": 122,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/customize-checkout.md",
+   "line": 143,
+   "lang": "js",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside code"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in/optional-server-configuration.md",
+   "line": 349,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/hosted-checkout.md",
+   "line": 811,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 36,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 67,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 127,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 165,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 198,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 238,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/digital-receipts.md",
+   "line": 314,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/create-profiles.md",
+   "line": 173,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/create-profiles.md",
+   "line": 258,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 132,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 163,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 263,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 342,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 431,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 512,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 590,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 616,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/recognize-customers.md",
+   "line": 59,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/recognize-customers.md",
+   "line": 155,
+   "lang": "json",
+   "ok": false,
+   "reason": "trailing comma"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/recognize-customers.md",
+   "line": 186,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/recognize-customers.md",
+   "line": 278,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/pay-by-link/create-payment-links/api.md",
+   "line": 447,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/referenced-refunds.md",
+   "line": 202,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/referenced-refunds.md",
+   "line": 369,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/retail-use-cases/click-and-collect/c-and-c-add-return.md",
+   "line": 200,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/retail-use-cases/endless-aisle/e-a-ship-home.md",
+   "line": 401,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/retail-use-cases/endless-aisle/e-a-store-pickup.md",
+   "line": 582,
+   "lang": "json",
+   "ok": false,
+   "reason": "ellipsis placeholder (...) inside JSON"
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/retail-use-cases/endless-aisle/e-a-store-pickup.md",
+   "line": 941,
+   "lang": "json",
+   "ok": false,
+   "reason": "not a JSON document (fragment)"
+  },
+  {
+   "url": "https://docs.adyen.com/development-resources/libraries.md",
+   "line": 408,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/marketplaces/checkout-components.md",
+   "line": 414,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 2798,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 3660,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 3799,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 4691,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 6418,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 7222,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/native-3ds2.md",
+   "line": 8042,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/android-component/earlier-versions.md",
+   "line": 713,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/android-drop-in.md",
+   "line": 735,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/ios-component.md",
+   "line": 699,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/3d-secure/redirect-3ds2/ios-drop-in.md",
+   "line": 701,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 391,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 1871,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 2458,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 3870,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 4436,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 6151,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 6813,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 21 (line 24)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 7231,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 7886,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 8552,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 21 (line 24)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 8983,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 9722,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 11044,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 12200,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 12745,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 13896,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 14450,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 15774,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16615,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 21 (line 24)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 16914,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 17459,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 18265,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 21 (line 24)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 18564,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 19116,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 20447,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 21172,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 21 (line 24)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 21372,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 21953,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22702,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 21 (line 24)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 22902,
+   "lang": "py",
+   "ok": false,
+   "reason": "expected an indented block after 'if' statement on line 11 (line 14)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/advanced-flow.md",
+   "line": 23483,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 401,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 2420,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 3851,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 5075,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 6414,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 7695,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 9028,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 10225,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/build-your-integration/sessions-flow.md",
+   "line": 11332,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/android-component.md",
+   "line": 496,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 39)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/android-drop-in.md",
+   "line": 494,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 39)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/ios-component.md",
+   "line": 367,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 35)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/ios-component.md",
+   "line": 878,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 39)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/ios-drop-in.md",
+   "line": 367,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 35)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/ios-drop-in.md",
+   "line": 878,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 39)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component.md",
+   "line": 373,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 35)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-component.md",
+   "line": 884,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 39)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-drop-in.md",
+   "line": 373,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 35)"
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/paypal/web-drop-in.md",
+   "line": 884,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax. Is this intended to be part of the string? (line 39)"
+  },
+  {
+   "url": "https://docs.adyen.com/platforms/online-payments/checkout-components.md",
+   "line": 414,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/drop-in.md",
+   "line": 386,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  },
+  {
+   "url": "https://docs.adyen.com/standard/integration/hosted-checkout.md",
+   "line": 207,
+   "lang": "py",
+   "ok": false,
+   "reason": "invalid syntax (line 1)"
+  }
+ ],
+ "exampleChecks": [
+  {
+   "url": "https://docs.adyen.com/online-payments/instant-card-funding.md",
+   "line": 52,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/instant-card-funding.md",
+   "line": 105,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 248,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/network-tokenization.md",
+   "line": 387,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/online-payments/tokenization/managing-tokens.md",
+   "line": 122,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/android-component.md",
+   "line": 470,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/android-component.md",
+   "line": 1037,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/android-drop-in.md",
+   "line": 391,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/android-drop-in.md",
+   "line": 880,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/api-only.md",
+   "line": 756,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/flutter-drop-in.md",
+   "line": 376,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/flutter-drop-in.md",
+   "line": 849,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/ios-component.md",
+   "line": 401,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/ios-component.md",
+   "line": 898,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/ios-drop-in.md",
+   "line": 375,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/ios-drop-in.md",
+   "line": 850,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/react-native-component.md",
+   "line": 466,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/react-native-drop-in.md",
+   "line": 376,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/react-native-drop-in.md",
+   "line": 849,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/web-component.md",
+   "line": 404,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/web-component.md",
+   "line": 897,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/web-drop-in.md",
+   "line": 382,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/bacs/web-drop-in.md",
+   "line": 863,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/gift-cards/api-only.md",
+   "line": 358,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/android-component/earlier-versions.md",
+   "line": 1553,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/android-drop-in/earlier-versions.md",
+   "line": 1537,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/api-only.md",
+   "line": 1654,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/ios-component.md",
+   "line": 2177,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/ios-drop-in.md",
+   "line": 2130,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/web-component.md",
+   "line": 2199,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/payment-methods/klarna/web-drop-in.md",
+   "line": 2178,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:The shopperReference that you specified when creating the token}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/plugins/oracle-opera.md",
+   "line": 96,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/create-a-risk-profile.md",
+   "line": 97,
+   "endpoint": "POST /sessions",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/create-a-risk-profile.md",
+   "line": 120,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/skip-risk-rules.md",
+   "line": 33,
+   "endpoint": "POST /sessions",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/risk-management/skip-risk-rules.md",
+   "line": 57,
+   "endpoint": "POST /payments",
+   "missingRequired": [
+    "returnUrl"
+   ],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/create-profiles.md",
+   "line": 54,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/payment-linked-loyalty.md",
+   "line": 58,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/recognize-customers.md",
+   "line": 42,
+   "endpoint": "POST /paymentMethods",
+   "missingRequired": [],
+   "unknownProperties": [
+    "{hint:This is the unique customer reference in your db}shopperReference{/hint}"
+   ]
+  },
+  {
+   "url": "https://docs.adyen.com/unified-commerce/loyalty-program/recognize-customers.md",
+   "line": 105,
+   "endpoint": "POST /payments",
+   "missingRequired": [],
+   "unknownProperties": []
+  }
+ ]
+}
